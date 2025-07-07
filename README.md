@@ -19,8 +19,6 @@ Website ini merupakan platform digital yang dirancang untuk memperkenalkan produ
 - **HTML5** & **CSS3**  
 - **JavaScript**  
 - **Bootstrap**  
-- **PHP (opsional, jika ada backend)**  
-- **MySQL (opsional, jika dinamis)**
 
 ---
 
