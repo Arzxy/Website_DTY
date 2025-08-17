@@ -31,3 +31,6 @@ Politeknik Enjinering Indorama
 2025
 
 ---
+
+> 📌 *Project ini bersifat open-source dan dapat dikembangkan lebih lanjut sesuai kebutuhan.*
+
