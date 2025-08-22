@@ -26,7 +26,7 @@ Website ini merupakan platform digital yang dirancang untuk memperkenalkan produ
 
 Website ini dikembangkan sebagai bagian dari proyek UAS oleh:
 
-**Muhammad Akmal Rizki**  
+**Akmal Imut**  
 Politeknik Enjinering Indorama  
 2025
 
